@@ -60,14 +60,14 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [8c256ec381e5e09d00c5db3a8d2a53de]
+  USERS: [L4WUDU_]
     {
       // 想要发送的人的名字
       name: '佳佳宝宝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'wxid_3geqvs7tysdo12',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'ouktZBAupAmD1NTA58um_WxoKaiVx3p6DPI-R3-JcJw',
       // 所在省份
       province: '陕西',
       // 所在城市
